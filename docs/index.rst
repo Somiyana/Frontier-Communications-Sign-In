@@ -9,7 +9,7 @@ How to Sign In Frontier Communications Account?
 Frontier Communications is a major telecommunications company offering high-speed internet, television, and phone services to customers across the United States.
 
 
-.. image:: click.sign-in.png
+.. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
